@@ -1,3 +1,3 @@
 # Time series forecasting
 
-In this repository, we provide a notebook that uses facebook's prophet package to forecast stock exchange.
+In this project, we present a model that helps to forecast stock exchange by using facebook's prophet package. 
