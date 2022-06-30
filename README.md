@@ -1,11 +1,19 @@
 ## Time series forecasting
 
-# Description 
+ 
 
 In this project, we present a model that helps to forecast stock exchange by using facebook's prophet package. 
 
-# Features
+## Features
 
-.......
+* 'Date'
+* 'SecuritiesCode'
+* 'Open'
+* 'High'
+* 'Low'
+* 'Close'
+* 'Volume'
+* 'AdjustmentFactor'
+* 'SupervisionFlag'
 
-# Results
+## Results
